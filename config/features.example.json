@@ -1,0 +1,11 @@
+{
+  "profile": "managed-device-safe",
+  "enableOfficeConversion": true,
+  "enableImageConversion": true,
+  "enableBundling": true,
+  "enableScreenshotCapture": true,
+  "enableMicrophoneCapture": false,
+  "enableAssistantRequests": false,
+  "enableOverlayGuidance": false,
+  "enableTextToSpeech": false
+}
